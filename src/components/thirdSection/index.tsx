@@ -19,6 +19,8 @@ export function ThirdSection() {
                         />
                     </div>
 
+
+                    //deploy
                     <div className={styles.bodyVideoContainer}>
                         <ReactPlayer url='https://youtu.be/dXuSlAKMJSk' />
                     </div>
