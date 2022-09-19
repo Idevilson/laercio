@@ -17,6 +17,15 @@ export function SecondSection() {
     return(
         <>
             <div className={styles.container} id="sobre">
+                <div className={styles.abstractFirstSection}>
+                    <Image
+                        src="/assets/secondSection/abstract.png"
+                        alt="efeito"
+                        layout={"fill"}
+                        objectFit={"fill"}
+                        quality={100}
+                    />
+                </div>
                 <div className={styles.leftContainer}>
                     <Image
                         src="/assets/secondSection/left.png"
@@ -53,6 +62,7 @@ export function SecondSection() {
                                     alt="Foto da candidata"
                                     width={306}
                                     height={461}
+                                    layout={"fixed"}
                                     quality={100}
                                 />
                             </div>
