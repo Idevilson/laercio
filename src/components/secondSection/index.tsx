@@ -83,21 +83,20 @@ export function SecondSection() {
                                         fill: '#ed841d',
                                         width: 20,
                                         marginBottom: 13,
-
                                     },
                                     nextButtonStyle: {
                                         marginTop: 450,
                                         marginRight: 130,
                                         background: "none",
                                         fontSize: 60,
-                                        color: "#ed841d"
+                                        color: "#ffffff"
                                     },
                                     prevButtonStyle: {
                                         marginTop: 450,
                                         marginLeft: 130,
                                         background: "none",
                                         fontSize: 60,
-                                        color: "#ed841d"
+                                        color: "#ffffff"
                                     },
                                     prevButtonText: "<",
                                     nextButtonText: ">"
