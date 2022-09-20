@@ -49,7 +49,7 @@ export function Footer() {
                                 </Link>
                             </div>
                             <div className={styles.alignIcons}>
-                                <Link href="/">
+                                <Link href="">
                                     <Image
                                         src="/assets/header/whatsapp.png"
                                         alt="ícone do whatsapp"
