@@ -58,7 +58,7 @@ export function FirstSection(){
 
                 <div className={styles.candidateNumber}>
                     <Image
-                        src="/assets/firstSection/number.svg"
+                        src="/assets/firstSection/number.png"
                         alt="Slogan"
                         layout="fill"
                         quality={100}
@@ -69,7 +69,7 @@ export function FirstSection(){
                 <div className={styles.psdbLogo}>
                     <Image
                         src="/assets/firstSection/psdbMobile.png"
-                        alt="Slogan"
+                        alt="Psdb"
                         layout="fill"
                     />
                 </div>

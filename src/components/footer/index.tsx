@@ -29,7 +29,7 @@ export function Footer() {
                                 <Link href="https://www.instagram.com/laercio_gaia">
                                     <a>
                                         <Image
-                                            src="/assets/header/instagram.png"
+                                            src="/assets/footer/instagram.png"
                                             alt="ícone do instagram"
                                             width={39}
                                             height={39}
@@ -41,18 +41,8 @@ export function Footer() {
                             <div className={styles.alignIcons}>
                                 <Link href="https://www.facebook.com/laercio.marcely">
                                     <Image
-                                        src="/assets/header/facebook.png"
+                                        src="/assets/footer/facebook.png"
                                         alt="ícone do facebook"
-                                        width={39}
-                                        height={39}
-                                    />
-                                </Link>
-                            </div>
-                            <div className={styles.alignIcons}>
-                                <Link href="">
-                                    <Image
-                                        src="/assets/header/whatsapp.png"
-                                        alt="ícone do whatsapp"
                                         width={39}
                                         height={39}
                                     />
@@ -74,13 +64,13 @@ export function Footer() {
 
                 <div className={styles.textBottom}>
                     <h1>
-                        LEI Nº9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.547.908/0001-83
+                        LEI N°9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.547.908/0001-83 / 11.274.042/0001-37
                     </h1>
                     <Image
                         src="/assets/footer/PSDB.png"
                         alt="Nome e número da candidata"
-                        width={211}
-                        height={48}
+                        width={127}
+                        height={29}
                         quality={100}
                     />
                 </div>
@@ -120,33 +110,23 @@ export function Footer() {
                 </div>
                 <div className={styles.socialIconsContainerMobile}>
                     <div className={styles.alignIconsMobile}>
-                        <Link href="https://www.instagram.com/valtoniapalmas">
+                        <Link href="https://www.instagram.com/laercio_gaia/">
                             <a  target="_blank">
                                 <Image
                                     src="/assets/footer/instagramMobile.png"
                                     alt="ícone do instagram"
-                                    width={91}
                                     height={91}
+                                    width={91}
                                 />
                             </a>
                         </Link>
                     </div>
 
                     <div className={styles.alignIconsMobile}>
-                        <Link href="https://www.facebook.com/Valtonia.palmas">
+                        <Link href="https://www.facebook.com/laercio.marcely">
                             <Image
                                 src="/assets/footer/facebookMobile.png"
                                 alt="ícone do facebook"
-                                width={91}
-                                height={91}
-                            />
-                        </Link>
-                    </div>
-                    <div className={styles.alignIconsMobile}>
-                        <Link href="https://wa.me/556392213395">
-                            <Image
-                                src="/assets/footer/whatsappMobile.png"
-                                alt="ícone do whatsapp"
                                 width={91}
                                 height={91}
                             />
@@ -166,15 +146,8 @@ export function Footer() {
 
                 <div className={styles.textBottomMobile}>
                     <h1>
-                        LEI Nº9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.547.908/0001-83
+                        LEI N°9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.547.908/0001-83 / 11.274.042/0001-37
                     </h1>
-                    <Image
-                        src="/assets/footer/PSDB.png"
-                        alt="Nome e número da candidata"
-                        width={211}
-                        height={48}
-                        quality={100}
-                    />
                 </div>
             </footer>
         </>

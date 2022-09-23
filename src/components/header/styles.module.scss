@@ -1,7 +1,7 @@
 @media only screen and (min-width: 768px) {
   .headerContainer {
     height: 5rem;
-    width: 1200px;
+    width: 1300px;
     margin-top: 30px;
     position: unset;
 
@@ -65,7 +65,8 @@
     }
 
     .imageContainer {
-      margin-left: 3rem;
+      margin-left: 6rem;
+      margin-right: 6rem;
     }
 
     nav {
@@ -100,7 +101,7 @@
     height: 5rem;
     margin-top: -570rem;
     position: absolute;
-
+    margin-left: 12rem;
     z-index: 1;
   }
 

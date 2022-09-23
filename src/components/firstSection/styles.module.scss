@@ -2,7 +2,8 @@
   .abstractFirstSection {
     position: absolute;
     width: 100%;
-    height: 1108px;
+    height: 890px;
+    margin-top: -14rem;
   }
 
   .Container {
@@ -16,7 +17,7 @@
 
 
     .containerFix{
-      height: 880px;
+      height: 890px;
     }
 
     .slogan {
@@ -82,8 +83,9 @@
 @media only screen and (max-width: 768px) {
   .abstractFirstSection {
     position: absolute;
-    margin-top: 10rem;
+    margin-top: -40rem;
     width: 1080px;
+    height: 2500px;
     overflow: hidden;
   }
 
@@ -107,7 +109,7 @@
 
     .sloganMobile {
       position: absolute;
-      margin-top: 45rem;
+      margin-top: 20rem;
       margin-left: 6rem;
 
       width: 648px;
@@ -116,16 +118,16 @@
 
     .candidateName {
       position: absolute;
-      margin-top: 10rem;
-      margin-left: 4rem;
+      margin-top: -110rem;
 
       width: 980px;
-      height: 131px;
+      height: 231px;
     }
 
     .candidateNumber {
       position: absolute;
-      margin-bottom: -79rem;
+      margin-bottom: -62rem;
+      margin-left: 3rem;
 
       width: 761px;
       height: 224px;
@@ -141,7 +143,7 @@
     .psdbLogo {
       position: absolute;
       margin-bottom: -130rem;
-      margin-left: -2rem;
+      margin-left: 2rem;
 
       width: 219px;
       height: 50px;
@@ -162,8 +164,8 @@
       height: 710px;
 
       margin-bottom: -8rem;
-      background: rgb(31,66,144);
-      background: linear-gradient(0deg, rgba(31,66,144,1) 35%, rgba(0,212,255,0) 100%);
+      background: rgb(255,255,255);
+      background: linear-gradient(0deg, rgba(255,255,255,1) 35%, rgba(0,212,255,0) 100%);
     }
 
   }

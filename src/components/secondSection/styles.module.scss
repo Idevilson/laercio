@@ -1,20 +1,16 @@
 @media only screen and (min-width: 768px) {
   .container {
-    .abstractFirstSection {
-      position: absolute;
-      width: 99.4%;
-      height: 648px;
-    }
 
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
     flex-direction: row;
 
-    height: 616px;
+    margin-top: -7rem;
+    height: 816px;
     width: 100%;
 
-    background-color: #ed841d;
+    background-color: #00397e;
 
     .leftContainer {
       margin-top: 6.2rem;
@@ -43,7 +39,7 @@
         }
 
         .rightSectionBodyContent {
-          background-color: #ffffff;
+          background-color: #00397e;
           display: flex;
           flex: 1;
           align-items: center;
