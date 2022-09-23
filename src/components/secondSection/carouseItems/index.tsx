@@ -58,11 +58,12 @@ function CarouselItem2() {
             </div>
             <div className={styles.body}>
                 <h2 className={styles.text}>
-                    Desenvolvo trabalho social voluntário<br/>
-                    com grupos familiares junto à Igreja<br/>
-                    Videira, aqui na capital, desde 2007,<br/>
-                    ajudando a transformar as vidas de<br/>
-                    centenas de pessoas.
+                    Desenvolvo trabalho social <br/>
+                    voluntário com grupos familiares <br/>
+                    junto à Igreja Videira, <br/>
+                    aqui na capital, desde 2007, <br/>
+                    ajudando a transformar as <br/>
+                    vidas de centenas de pessoas.
                 </h2>
             </div>
             <div className={styles.footer}>
@@ -97,10 +98,12 @@ function CarouselItem3() {
             </div>
             <div className={styles.body}>
                 <h2 className={styles.text}>
-                    Sou técnico em Administração e, em minha<br/>
-                    carreira, trabalhei como representante comercial<br/>
-                    ao lado de importantes indústrias no Estado,<br/>
-                    por isso conheço bem o Tocantins.
+                    Sou técnico em Administração e, <br/>
+                    em minha carreira, trabalhei <br/>
+                    como representante comercial <br/>
+                    ao lado de importantes indústrias <br/>
+                    no Estado, por isso conheço <br/>
+                    bem o Tocantins.
                 </h2>
             </div>
             <div className={styles.footer}>
@@ -173,12 +176,13 @@ function CarouselItem5() {
             </div>
             <div className={styles.body}>
                 <h2 className={styles.text}>
-                    Como Deputado Estadual, quero lutar pelo <br/>
-                    incentivo ao empreendedorismo, por <br/>
-                    mais educação, saúde, mobilidade e <br/>
-                    infraestrutura, e também lutarei <br/>
-                    pelos interesses dos trabalhadores.
-
+                    Como Deputado Estadual, quero <br/>
+                    lutar pelo incentivo ao <br/>
+                    empreendedorismo, por mais <br/>
+                    educação, saúde, mobilidade <br/>
+                    e infraestrutura, de também <br/>
+                    lutarei pelos interesses <br/>
+                    dos trabalhadores.
                 </h2>
             </div>
             <div className={styles.footer}>
