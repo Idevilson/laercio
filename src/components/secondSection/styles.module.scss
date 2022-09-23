@@ -165,11 +165,11 @@
 
   .containerMobile {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     flex-direction: column;
     margin-top: 8rem;
 
-    height: 1500px;
+    height: 1600px;
     width: 1080px;
 
     background-color: #1f4290;
@@ -224,18 +224,18 @@
           z-index: 1;
 
           margin-left: 20rem;
-          margin-top: 9.8rem;
+          margin-top: 17.7rem;
           position: absolute;
         }
         .leftContainerMobile {
-          margin-top: 19.5rem;
+          margin-top: 27.5rem;
           width: 300px;
 
           display: flex;
           justify-content: flex-start;
         }
         .rightContainerMobile {
-          margin-top: 19.5rem;
+          margin-top: 27.5rem;
           width: 300px;
 
           display: flex;
