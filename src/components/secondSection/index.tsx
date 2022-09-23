@@ -36,13 +36,9 @@ export function SecondSection() {
                             height={41}
                             quality={100}
                         />
-                        <Image
-                            src="/assets/secondSection/Text.png"
-                            alt="efeito"
-                            width={534}
-                            height={34}
-                            quality={100}
-                        />
+                        <h1>
+                            Força, coragem e renovação!
+                        </h1>
                     </div>
 
                     <div className={styles.bodyContent}>
@@ -120,8 +116,7 @@ export function SecondSection() {
                         SOBRE MIM
                     </h1>
                     <h1>
-                        Do Taquari para o Tocantins. <br/>
-                        É gente nossa!
+                        Força, coragem e renovação!
                     </h1>
                 </div>
                 <div className={styles.carousel}>

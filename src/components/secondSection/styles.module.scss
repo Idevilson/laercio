@@ -23,6 +23,19 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+
+        h1 {
+          color: #ffffff;
+          font-family: "Montserrat";
+          font-size: 34px;
+          font-weight: bold;
+          font-style: normal;
+          letter-spacing: normal;
+          line-height: 62.48px;
+          text-align: center;
+          /* Text style for "Força, cor" */
+          margin-top: .5rem;
+        }
       }
       .bodyContent {
         display: flex;
@@ -169,7 +182,7 @@
 
         h1:first-child {
           color: #ffce00;
-          font-family: Now;
+          font-family: Montserrat;
           font-size: 65px;
           font-weight: 700;
           font-style: normal;
@@ -184,7 +197,7 @@
         }
 
         h1 {
-          font-family: Now;
+          font-family: Montserrat ;
           font-size: 55px;
           font-weight: 700;
           font-style: normal;
